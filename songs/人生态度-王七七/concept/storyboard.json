@@ -1,0 +1,879 @@
+{
+  "fps": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 10.194,
+      "section": "intro",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [],
+      "visual": "前奏：金銮殿空镜，龙椅与香炉，竖排纸卷轴标题落版，朱印「态度」",
+      "camera": "缓推",
+      "motion": "炉烟、浮尘",
+      "transition": "fade-in",
+      "refs": []
+    },
+    {
+      "id": "s02",
+      "start": 10.194,
+      "end": 12.398,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L01"
+      ],
+      "visual": "火烧宫殿，永乐帝举相机取景，快门白闪，拍立得吐出「清君侧」",
+      "camera": "缓推",
+      "motion": "呼吸、快门白闪、拍立得弹出",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s03",
+      "start": 12.398,
+      "end": 14.602,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L02"
+      ],
+      "visual": "金銮殿奏折散落，正统帝困得直往下沉",
+      "camera": "固定",
+      "motion": "下沉、纸屑",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s04",
+      "start": 14.602,
+      "end": 16.776,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L03"
+      ],
+      "visual": "金銮殿墙面裂缝蔓延，建文帝低头看地图，浑然不觉",
+      "camera": "手持微抖",
+      "motion": "抖、裂缝",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s05",
+      "start": 16.776,
+      "end": 18.949,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L04"
+      ],
+      "visual": "煤山暮色，老槐斜枝垂下一根白绫，画面里没有人",
+      "camera": "横移",
+      "motion": "浮尘",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s06",
+      "start": 18.949,
+      "end": 21.184,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L05"
+      ],
+      "visual": "金銮殿奏折堆到脚边，万历帝抱着奏折出溜下去",
+      "camera": "固定",
+      "motion": "下沉、纸屑",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s07",
+      "start": 21.184,
+      "end": 23.265,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L06"
+      ],
+      "visual": "夜殿烛火，万历帝抱着黄历打盹，头一点一点",
+      "camera": "横移",
+      "motion": "点头、浮尘",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s08",
+      "start": 23.265,
+      "end": 25.469,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L37"
+      ],
+      "visual": "西苑水边，正德帝搂着豹子蹦跳，花瓣乱飞",
+      "camera": "横移",
+      "motion": "上下轻弹、花瓣、水波",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s09",
+      "start": 25.469,
+      "end": 27.582,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L08"
+      ],
+      "visual": "西苑柳下，正德帝叉腰站着，神情松弛",
+      "camera": "固定",
+      "motion": "上下轻弹、花瓣",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s10",
+      "start": 27.582,
+      "end": 29.755,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L31"
+      ],
+      "visual": "金銮殿，嘉靖帝捧着炼丹炉，炉口红光一明一暗",
+      "camera": "固定",
+      "motion": "呼吸、炉烟、furnace",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s11",
+      "start": 29.755,
+      "end": 31.898,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L32"
+      ],
+      "visual": "山路关隘，嘉靖帝从左侧走上来，绕开关口",
+      "camera": "横移",
+      "motion": "呼吸、山雾",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s12",
+      "start": 31.898,
+      "end": 34.071,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L33"
+      ],
+      "visual": "金銮殿，嘉靖帝戴墨镜叉腰，奏折纸屑从头顶落下",
+      "camera": "手持微抖",
+      "motion": "抖、纸屑",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s13",
+      "start": 34.071,
+      "end": 36.214,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L34"
+      ],
+      "visual": "金銮殿，泰昌帝捧着红丸弹出，红丸四散",
+      "camera": "缓推",
+      "motion": "呼吸、红丸",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s14",
+      "start": 36.214,
+      "end": 38.378,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L35"
+      ],
+      "visual": "瓦剌大营，正德帝张臂呐喊，声波一圈圈推出去",
+      "camera": "固定",
+      "motion": "呼吸、声波、风",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s15",
+      "start": 38.378,
+      "end": 40.592,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L36"
+      ],
+      "visual": "山路关隘，正德帝大步往画面外走，衣角带风",
+      "camera": "横移",
+      "motion": "呼吸、山雾、花瓣",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s16",
+      "start": 40.592,
+      "end": 42.735,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L37"
+      ],
+      "visual": "西苑，正德帝与豹子蹦跳庆祝，花瓣与水波一起动",
+      "camera": "固定",
+      "motion": "上下轻弹、花瓣、水波",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s17",
+      "start": 42.735,
+      "end": 47.592,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "L38"
+      ],
+      "visual": "山路风起，正统帝持弓站定，被风吹得晃，又稳稳站住",
+      "camera": "手持微抖",
+      "motion": "摇晃、风、山雾",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s18",
+      "start": 47.592,
+      "end": 49.337,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L46"
+      ],
+      "visual": "金銮殿金光，洪武帝高举玉玺，从画面下方升起来",
+      "camera": "缓推",
+      "motion": "呼吸、金光、浮尘",
+      "transition": "fade",
+      "refs": []
+    },
+    {
+      "id": "s19",
+      "start": 49.337,
+      "end": 51.939,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L47"
+      ],
+      "visual": "金銮殿，洪武举玺、永乐振臂，一左一右升起",
+      "camera": "缓推",
+      "motion": "上下轻弹、金光",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s20",
+      "start": 51.939,
+      "end": 53.602,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L41"
+      ],
+      "visual": "西苑，宣德帝眨眼举起蛐蛐罐，轻巧一颠",
+      "camera": "固定",
+      "motion": "上下轻弹、花瓣",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s21",
+      "start": 53.602,
+      "end": 56.265,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L42"
+      ],
+      "visual": "西苑水面，宣德帝抱着蛐蛐罐晃悠，水波荡开",
+      "camera": "固定",
+      "motion": "上下轻弹、花瓣、水波",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s22",
+      "start": 56.265,
+      "end": 60.571,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "L43"
+      ],
+      "visual": "山路黄昏，崇祯帝捧着奏折低头走，山雾漫过脚边",
+      "camera": "横移",
+      "motion": "呼吸、山雾、风",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s23",
+      "start": 60.571,
+      "end": 62.786,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L44"
+      ],
+      "visual": "山路，弘治帝抱着奏折稳步往前走",
+      "camera": "横移",
+      "motion": "呼吸、山雾",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s24",
+      "start": 62.786,
+      "end": 64.949,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L45"
+      ],
+      "visual": "西苑，正德帝搂着豹子振臂，花瓣与水波齐飞",
+      "camera": "缓推",
+      "motion": "上下轻弹、花瓣、水波",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s25",
+      "start": 64.949,
+      "end": 66.673,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L46"
+      ],
+      "visual": "金銮殿，洪武帝举玺，「态度」大印从右侧砸下",
+      "camera": "缓推",
+      "motion": "呼吸",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s26",
+      "start": 66.673,
+      "end": 69.204,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L47"
+      ],
+      "visual": "金銮殿，隆庆捧宝船、天启举木工刨，一左一右升起",
+      "camera": "固定",
+      "motion": "上下轻弹、浮尘",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s27",
+      "start": 69.204,
+      "end": 71.265,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L48"
+      ],
+      "visual": "金銮殿，嘉靖帝环抱炼丹炉，炉火躁动，画面微抖",
+      "camera": "手持微抖",
+      "motion": "抖、炉烟",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s28",
+      "start": 71.265,
+      "end": 73.622,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L49"
+      ],
+      "visual": "金銮殿，正德帝从左侧滑进画面，抬手一指",
+      "camera": "横移",
+      "motion": "呼吸、浮尘",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s29",
+      "start": 73.622,
+      "end": 77.898,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "L50"
+      ],
+      "visual": "金銮殿，景泰帝托起景泰蓝瓶，人随瓶起伏",
+      "camera": "固定",
+      "motion": "呼吸、浮尘、金光",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s30",
+      "start": 77.898,
+      "end": 80.143,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L51"
+      ],
+      "visual": "山路，隆庆帝举罗盘指路，金光从身后铺开",
+      "camera": "横移",
+      "motion": "上下轻弹、山雾、金光",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s31",
+      "start": 80.143,
+      "end": 84.694,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "L52"
+      ],
+      "visual": "宫门夜景，崇祯帝提着奏折穿过宫门，灯笼暖光呼吸",
+      "camera": "横移",
+      "motion": "呼吸、星光、灯笼",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s32",
+      "start": 84.694,
+      "end": 90.429,
+      "section": "drop",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [],
+      "visual": "间奏：空殿无人，一张纸慢慢飘落，香炉浮尘",
+      "camera": "缓推",
+      "motion": "炉烟、浮尘、纸飘落",
+      "transition": "fade",
+      "refs": []
+    },
+    {
+      "id": "s33",
+      "start": 90.429,
+      "end": 92.602,
+      "section": "drop",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L31"
+      ],
+      "visual": "夜殿，嘉靖帝抱着炼丹炉往下沉，困得睁不开眼",
+      "camera": "固定",
+      "motion": "下沉、炉烟",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s34",
+      "start": 92.602,
+      "end": 94.776,
+      "section": "drop",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L32"
+      ],
+      "visual": "山路（镜像），嘉靖帝从左侧绕行，脚步轻快",
+      "camera": "横移",
+      "motion": "呼吸、山雾",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s35",
+      "start": 94.776,
+      "end": 96.908,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L33"
+      ],
+      "visual": "金銮殿，嘉靖帝戴墨镜叉腰，奏折纸屑不断落下",
+      "camera": "手持微抖",
+      "motion": "抖、纸屑",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s36",
+      "start": 96.908,
+      "end": 99.051,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L34"
+      ],
+      "visual": "金銮殿，泰昌帝眨眼举起红丸，红丸四散",
+      "camera": "缓推",
+      "motion": "呼吸、红丸",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s37",
+      "start": 99.051,
+      "end": 101.224,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L35"
+      ],
+      "visual": "瓦剌大营，正德帝呐喊，声波与风一起扫过草原",
+      "camera": "固定",
+      "motion": "呼吸、声波、风",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s38",
+      "start": 101.224,
+      "end": 103.469,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L36"
+      ],
+      "visual": "山路，正德帝大步走远，花瓣被风卷起",
+      "camera": "横移",
+      "motion": "呼吸、山雾、花瓣",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s39",
+      "start": 103.469,
+      "end": 105.673,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L37"
+      ],
+      "visual": "西苑，正德帝搂着豹子叉腰，稳稳蹦跳",
+      "camera": "固定",
+      "motion": "上下轻弹、花瓣、水波",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s40",
+      "start": 105.673,
+      "end": 110.48,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "L38"
+      ],
+      "visual": "瓦剌大营，正统帝抱弓振臂，风把旗子吹得直响",
+      "camera": "缓推",
+      "motion": "上下轻弹、风、花瓣",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s41",
+      "start": 110.48,
+      "end": 112.194,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L46"
+      ],
+      "visual": "金銮殿金光，洪武帝举玺升起（重复段，站位换到左侧）",
+      "camera": "缓推",
+      "motion": "呼吸、金光、浮尘",
+      "transition": "fade",
+      "refs": []
+    },
+    {
+      "id": "s42",
+      "start": 112.194,
+      "end": 114.796,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L47"
+      ],
+      "visual": "金銮殿，永乐振臂、洪武举玺，一左一右升起",
+      "camera": "缓推",
+      "motion": "上下轻弹、金光",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s43",
+      "start": 114.796,
+      "end": 116.439,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L41"
+      ],
+      "visual": "西苑，宣德帝眨眼举起蛐蛐罐（重复段，站位换边）",
+      "camera": "固定",
+      "motion": "上下轻弹、花瓣",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s44",
+      "start": 116.439,
+      "end": 119.133,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L42"
+      ],
+      "visual": "西苑水边，宣德帝抱着罐子晃悠，水波荡开",
+      "camera": "固定",
+      "motion": "上下轻弹、花瓣、水波",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s45",
+      "start": 119.133,
+      "end": 123.418,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "L43"
+      ],
+      "visual": "山路夜色，崇祯帝捧着奏折独行，灯笼在远处亮着",
+      "camera": "横移",
+      "motion": "呼吸、山雾、风、灯笼",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s46",
+      "start": 123.418,
+      "end": 125.633,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L44"
+      ],
+      "visual": "山路黄昏，弘治帝抱着奏折前行，山雾被风吹散",
+      "camera": "横移",
+      "motion": "呼吸、山雾",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s47",
+      "start": 125.633,
+      "end": 127.837,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L45"
+      ],
+      "visual": "西苑，成化帝举起鸡缸杯，花瓣落在杯沿",
+      "camera": "缓推",
+      "motion": "上下轻弹、花瓣、水波",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s48",
+      "start": 127.837,
+      "end": 129.52,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L46"
+      ],
+      "visual": "金銮殿，洪武帝怒目举玺，「态度」大印再次砸下",
+      "camera": "缓推",
+      "motion": "呼吸",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s49",
+      "start": 129.52,
+      "end": 132.051,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L47"
+      ],
+      "visual": "金銮殿，隆庆抱宝船、正德搂豹子，一左一右升起",
+      "camera": "固定",
+      "motion": "上下轻弹、浮尘、金光",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s50",
+      "start": 132.051,
+      "end": 134.112,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L48"
+      ],
+      "visual": "金銮殿，嘉靖帝怒抱炼丹炉，炉火窜高，画面抖",
+      "camera": "手持微抖",
+      "motion": "抖、炉烟",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s51",
+      "start": 134.112,
+      "end": 136.469,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L49"
+      ],
+      "visual": "金銮殿，正德帝滑入画面，抬手一指",
+      "camera": "横移",
+      "motion": "呼吸、浮尘",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s52",
+      "start": 136.469,
+      "end": 140.776,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "L50"
+      ],
+      "visual": "金銮殿，景泰帝托着景泰蓝瓶，随瓶上下起伏",
+      "camera": "固定",
+      "motion": "呼吸、浮尘、金光",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s53",
+      "start": 140.776,
+      "end": 143.01,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L51"
+      ],
+      "visual": "山路夜色，隆庆帝举罗盘指路，远处灯火亮起",
+      "camera": "横移",
+      "motion": "上下轻弹、山雾、灯笼",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s54",
+      "start": 143.01,
+      "end": 147.959,
+      "section": "drop",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "L52"
+      ],
+      "visual": "宫门夜景，崇祯帝推门而入，门内暖光漫出来",
+      "camera": "缓推",
+      "motion": "呼吸、星光、灯笼",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s55",
+      "start": 147.959,
+      "end": 159.173,
+      "section": "drop",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [],
+      "visual": "尾奏：纸卡片对照表，八位皇帝与八句歌词逐行浮现",
+      "camera": "固定",
+      "motion": "逐行浮现",
+      "transition": "fade-out",
+      "refs": []
+    }
+  ]
+}

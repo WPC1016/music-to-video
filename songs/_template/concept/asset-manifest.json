@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "style-board-01",
+      "type": "style-board",
+      "origin": "ai",
+      "path": "refs/01-风格板.png",
+      "prompt": "concept/prompts/01-风格板.md",
+      "source": "ChatGPT Image",
+      "status": "draft",
+      "usedIn": [],
+      "notes": "定色彩/光线/材质，所有镜头都引用它"
+    },
+    {
+      "id": "character-01",
+      "type": "character",
+      "origin": "user",
+      "path": "assets/character/character-01-女主侧脸.png",
+      "prompt": null,
+      "source": "自己画的",
+      "status": "approved",
+      "usedIn": [],
+      "notes": "示例：用户提供的素材可以直接进成片，记得标必须保留的特征"
+    }
+  ]
+}

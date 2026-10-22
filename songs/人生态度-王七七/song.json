@@ -1,0 +1,59 @@
+{
+  "title": "人生态度",
+  "artist": "王七七",
+  "slug": "人生态度-王七七",
+  "source": {
+    "audio": "source/人生态度-王七七.flac",
+    "lrc": "source/人生态度-王七七.lrc"
+  },
+  "format": {
+    "primary": "landscape",
+    "portrait": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30
+    },
+    "landscape": {
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    }
+  },
+  "engine": "canvas",
+  "style": {
+    "palette": [
+      "#E8E0CC",
+      "#14110F",
+      "#B33A2B",
+      "#F5F0E4"
+    ],
+    "font": "思源宋体 Heavy / 楷体",
+    "texture": "瓦楞 0.35 + 纤维 0.5 + 网点 0.25 + 毛边 0.6",
+    "lighting": "单一顶灯，硬阴影，无补光"
+  },
+  "stage": "rendered",
+  "approvals": {
+    "concept": {
+      "by": "人",
+      "at": "2026-10-21",
+      "note": "方案通过；副歌重复改为朱红漫上来，不做二次反相"
+    },
+    "style": {
+      "by": "人",
+      "at": "2026-10-21",
+      "note": "A 旧报纸配色 + C 瓦楞质感"
+    },
+    "storyboard": {
+      "by": "人",
+      "at": "2026-10-22",
+      "note": "55 镜一句一镜通过；换 FLAC 后按 1.020408 重定时，镜次与画面不变"
+    },
+    "assets": null,
+    "preview": null
+  },
+  "duration": 159.173,
+  "bpm": 109.5,
+  "notes": "BPM 109.5 需人工核对；6 个能量段落，57 行正文歌词；纯代码路线，跳过 AI 生图 | 2026-10-22 音频换为无损 FLAC(159.173s)，时间轴按 1.020407 重定时",
+  "status": "rendered",
+  "output": "out/人生态度-王七七_1920x1080.mp4"
+}

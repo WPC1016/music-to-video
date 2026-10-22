@@ -1,0 +1,879 @@
+{
+  "fps": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 9.99,
+      "section": "intro",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [],
+      "visual": "出租屋全景：顶灯亮起，桌上便签，窗外城市夜灯，地上一张纸卷角",
+      "camera": "缓推",
+      "motion": "纸角卷起",
+      "transition": "fade-in",
+      "refs": []
+    },
+    {
+      "id": "s02",
+      "start": 9.99,
+      "end": 12.15,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "房子着火我拍照"
+      ],
+      "visual": "沙发着火，火苗窜起；人后退半步举起手机，快门闪光，照片吐出印着「清君侧」",
+      "camera": "固定",
+      "motion": "火长高、人后退、闪光",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s03",
+      "start": 12.15,
+      "end": 14.31,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "人生乱套我睡觉"
+      ],
+      "visual": "客厅狼藉：纸页乱飞椅子翻倒；人穿过混乱钻进被窝只露两只脚",
+      "camera": "固定",
+      "motion": "纸飞、人躺下",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s04",
+      "start": 14.31,
+      "end": 16.44,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "大难临头不知道"
+      ],
+      "visual": "桌前低头刷手机，背后墙皮从一条缝裂成大缝；他没回头",
+      "camera": "固定",
+      "motion": "裂缝蔓延",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s05",
+      "start": 16.44,
+      "end": 18.57,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "大不了我就上吊"
+      ],
+      "visual": "晾衣杆垂下白布，镜头下移发现另一端系成吊床；人躺进去",
+      "camera": "下移",
+      "motion": "白布变吊床",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s06",
+      "start": 18.57,
+      "end": 20.76,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "今天的事儿能拖就拖"
+      ],
+      "visual": "便签堆成山，人撕下「今天」塞进抽屉，抽屉弹回被脚顶住，贴封条",
+      "camera": "固定",
+      "motion": "抽屉开合",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s07",
+      "start": 20.76,
+      "end": 22.8,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "明天的事儿明天再说"
+      ],
+      "visual": "门缝塞进一摞快递单，人把「明天」牌翻到「后天」，回身关灯",
+      "camera": "固定",
+      "motion": "单据滑入、牌子翻面",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s08",
+      "start": 22.8,
+      "end": 24.96,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "我就乐意这样活"
+      ],
+      "visual": "衣柜前换上花衬衫，对着镜子摆姿势，镜中人抬手比耶",
+      "camera": "固定",
+      "motion": "换衣、镜中比耶",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s09",
+      "start": 24.96,
+      "end": 27.03,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "啥事儿不往心里搁"
+      ],
+      "visual": "四面飞来的纸团，人左躲右闪，全落进角落里垃圾桶",
+      "camera": "固定",
+      "motion": "纸团飞、进桶",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s10",
+      "start": 27.03,
+      "end": 29.16,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "压力坎坷不烦躁"
+      ],
+      "visual": "手机弹出 99+ 红点，人戴耳机，弹窗一个个变成跳动的音符",
+      "camera": "固定",
+      "motion": "红点爆开变音符",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s11",
+      "start": 29.16,
+      "end": 31.26,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "过不去我就绕道"
+      ],
+      "visual": "走廊被一排纸箱堵死，人看了看转身拐进旁边小道",
+      "camera": "固定",
+      "motion": "人转身",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s12",
+      "start": 31.26,
+      "end": 33.39,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "骂我当你开玩笑"
+      ],
+      "visual": "屏幕上滚过骂人的弹幕，人撑开伞，弹幕变表情包掉在地上",
+      "camera": "固定",
+      "motion": "弹幕落下",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s13",
+      "start": 33.39,
+      "end": 35.49,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "打我你得掏钞票"
+      ],
+      "visual": "收银台后摆着托盘，有人挥拳过来，他指扫码牌，小票吐出来",
+      "camera": "固定",
+      "motion": "拳头停、小票打印",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s14",
+      "start": 35.49,
+      "end": 37.61,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "想说的话能说就说"
+      ],
+      "visual": "天台边举着喇叭喊，声音变成一行行字飞向远处楼群",
+      "camera": "固定",
+      "motion": "字飞走",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s15",
+      "start": 37.61,
+      "end": 39.78,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "想做的事儿能做就做"
+      ],
+      "visual": "门半开，人背包溜出去，走到一半回头比个「嘘」",
+      "camera": "固定",
+      "motion": "人溜走、回头",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s16",
+      "start": 39.78,
+      "end": 41.88,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "我就乐意这样活"
+      ],
+      "visual": "躺椅上晃，两边举「规矩」牌，他扇子一扇牌子翻成「乐意」",
+      "camera": "固定",
+      "motion": "牌子翻面",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s17",
+      "start": 41.88,
+      "end": 46.64,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "没有啥能打倒我"
+      ],
+      "visual": "他站着摇摇欲坠，大风吹过，扶正帽子拍拍身上的土",
+      "camera": "固定",
+      "motion": "人晃、扶帽",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s18",
+      "start": 46.64,
+      "end": 48.35,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "人生得有态度"
+      ],
+      "visual": "一叠字牌从下方升起，拼成「态度」两个字",
+      "camera": "固定",
+      "motion": "字牌升",
+      "transition": "fade",
+      "refs": []
+    },
+    {
+      "id": "s19",
+      "start": 48.35,
+      "end": 50.9,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "态度得靠人来活"
+      ],
+      "visual": "字牌重重压在肩上，人被压弯腰，又一起顶起来",
+      "camera": "固定",
+      "motion": "压弯、顶起",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s20",
+      "start": 50.9,
+      "end": 52.53,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "芝麻大的小事儿"
+      ],
+      "visual": "一颗巨大芝麻砸在桌上，拿放大镜看，一弹飞进抽屉",
+      "camera": "固定",
+      "motion": "芝麻落、弹飞",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s21",
+      "start": 52.53,
+      "end": 55.14,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "别把自己来折磨"
+      ],
+      "visual": "被一团乱线缠住，拿剪刀一根根剪断，线变成跳绳",
+      "camera": "固定",
+      "motion": "剪断、跳绳",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s22",
+      "start": 55.14,
+      "end": 59.36,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "人生难免会经历坎坎坷坷"
+      ],
+      "visual": "路面全是坑，走两步掉一个，爬出来继续走",
+      "camera": "固定",
+      "motion": "掉坑、爬出",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s23",
+      "start": 59.36,
+      "end": 61.53,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "车到山前必有路"
+      ],
+      "visual": "推一辆小车到墙前，墙裂开一条路，开进去",
+      "camera": "固定",
+      "motion": "墙裂、开入",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s24",
+      "start": 61.53,
+      "end": 63.65,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "唯有快乐最难得"
+      ],
+      "visual": "屋顶抱着猫，天上掉金币，接住发现是小鱼干",
+      "camera": "固定",
+      "motion": "金币落、变鱼干",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s25",
+      "start": 63.65,
+      "end": 65.34,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "人生得有态度"
+      ],
+      "visual": "一排人胸前盖章，章连成一条线",
+      "camera": "固定",
+      "motion": "盖章",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s26",
+      "start": 65.34,
+      "end": 67.82,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "态度得靠人来活"
+      ],
+      "visual": "几个人抬一支巨大毛笔，在墙上写字",
+      "camera": "固定",
+      "motion": "笔移动",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s27",
+      "start": 67.82,
+      "end": 69.84,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "生活想让我示弱"
+      ],
+      "visual": "一只巨大的手压下来，撑开一把伞，伞面弹开手",
+      "camera": "固定",
+      "motion": "压、弹开",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s28",
+      "start": 69.84,
+      "end": 72.15,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "我笑着一笔带过"
+      ],
+      "visual": "拿大笔在「示弱」两字上划横线，墨点变成笑脸",
+      "camera": "固定",
+      "motion": "划线、墨点",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s29",
+      "start": 72.15,
+      "end": 76.34,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "人生难免会经历起起落落"
+      ],
+      "visual": "电梯上下，有人升到顶有人落到底，最后停同一层",
+      "camera": "固定",
+      "motion": "升降",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s30",
+      "start": 76.34,
+      "end": 78.54,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "条条大路通罗马"
+      ],
+      "visual": "多条小路从脚下散开，远处汇成一点，点亮小灯",
+      "camera": "固定",
+      "motion": "路延展、灯亮",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s31",
+      "start": 78.54,
+      "end": 83,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "关关难过关关过"
+      ],
+      "visual": "三道门依次关上，推开最后一道，暖光洒出来",
+      "camera": "缓推",
+      "motion": "门开",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s32",
+      "start": 83,
+      "end": 88.62,
+      "section": "drop",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [],
+      "visual": "空走廊，一张纸在地上慢慢飘落",
+      "camera": "固定",
+      "motion": "纸飘落",
+      "transition": "fade",
+      "refs": []
+    },
+    {
+      "id": "s33",
+      "start": 88.62,
+      "end": 90.75,
+      "section": "drop",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "压力坎坷不烦躁"
+      ],
+      "visual": "同 s10 变奏：手机换成平板，弹窗更多，人躺得更低",
+      "camera": "固定",
+      "motion": "红点爆开",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s34",
+      "start": 90.75,
+      "end": 92.88,
+      "section": "drop",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "过不去我就绕道"
+      ],
+      "visual": "同 s11 变奏：纸箱更高，人直接跨过去",
+      "camera": "固定",
+      "motion": "跨过",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s35",
+      "start": 92.88,
+      "end": 94.97,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "骂我当你开玩笑"
+      ],
+      "visual": "同 s12 变奏：弹幕更密，人把伞转起来",
+      "camera": "固定",
+      "motion": "伞转",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s36",
+      "start": 94.97,
+      "end": 97.07,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "打我你得掏钞票"
+      ],
+      "visual": "同 s13 变奏：票据叠更高，他自己在数",
+      "camera": "固定",
+      "motion": "点数",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s37",
+      "start": 97.07,
+      "end": 99.2,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "想说的话能说就说"
+      ],
+      "visual": "同 s14 变奏：喇叭换成扩音器，字飞更远",
+      "camera": "固定",
+      "motion": "字飞",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s38",
+      "start": 99.2,
+      "end": 101.4,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "想做的事儿能做就做"
+      ],
+      "visual": "同 s15 变奏：这次不回头，门在身后关上",
+      "camera": "固定",
+      "motion": "门关",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s39",
+      "start": 101.4,
+      "end": 103.56,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "我就乐意这样活"
+      ],
+      "visual": "同 s16 变奏：躺椅换成吊床，牌子已经翻好",
+      "camera": "固定",
+      "motion": "轻晃",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s40",
+      "start": 103.56,
+      "end": 108.27,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "没有啥能打倒我"
+      ],
+      "visual": "同 s17 变奏：这次没被风吹倒，反而迎着风站着",
+      "camera": "固定",
+      "motion": "人站稳",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s41",
+      "start": 108.27,
+      "end": 109.95,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "人生得有态度"
+      ],
+      "visual": "字牌升起，朱红线从画面底部开始涨",
+      "camera": "固定",
+      "motion": "液面起",
+      "transition": "fade",
+      "refs": []
+    },
+    {
+      "id": "s42",
+      "start": 109.95,
+      "end": 112.5,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "态度得靠人来活"
+      ],
+      "visual": "字牌压肩，液面到脚踝",
+      "camera": "固定",
+      "motion": "液面涨",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s43",
+      "start": 112.5,
+      "end": 114.11,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "芝麻大的小事儿"
+      ],
+      "visual": "芝麻被淹一半，手指还在弹",
+      "camera": "固定",
+      "motion": "液面涨",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s44",
+      "start": 114.11,
+      "end": 116.75,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "别把自己来折磨"
+      ],
+      "visual": "线被淹，剪断后浮起来",
+      "camera": "固定",
+      "motion": "线浮起",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s45",
+      "start": 116.75,
+      "end": 120.95,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "人生难免会经历坎坎坷坷"
+      ],
+      "visual": "路面坑被淹，人在水里走，液面到膝",
+      "camera": "固定",
+      "motion": "人走、液面涨",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s46",
+      "start": 120.95,
+      "end": 123.12,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "车到山前必有路"
+      ],
+      "visual": "小车浮在水上，墙已消失",
+      "camera": "固定",
+      "motion": "车漂",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s47",
+      "start": 123.12,
+      "end": 125.28,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "唯有快乐最难得"
+      ],
+      "visual": "猫站在桌角，金币沉下去",
+      "camera": "固定",
+      "motion": "金币沉",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s48",
+      "start": 125.28,
+      "end": 126.93,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "人生得有态度"
+      ],
+      "visual": "盖章的手在水面上，章没了",
+      "camera": "固定",
+      "motion": "液面到腰",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s49",
+      "start": 126.93,
+      "end": 129.41,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "态度得靠人来活"
+      ],
+      "visual": "毛笔只露笔杆，字被泡散",
+      "camera": "固定",
+      "motion": "液面到胸",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s50",
+      "start": 129.41,
+      "end": 131.43,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "生活想让我示弱"
+      ],
+      "visual": "巨大的手不见了，只剩水面",
+      "camera": "固定",
+      "motion": "液面到胸",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s51",
+      "start": 131.43,
+      "end": 133.74,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "我笑着一笔带过"
+      ],
+      "visual": "划掉的「示弱」浮在水上散开",
+      "camera": "固定",
+      "motion": "散开",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s52",
+      "start": 133.74,
+      "end": 137.96,
+      "section": "lift",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [
+        "人生难免会经历起起落落"
+      ],
+      "visual": "电梯停摆，所有人站在水里",
+      "camera": "固定",
+      "motion": "液面到肩",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s53",
+      "start": 137.96,
+      "end": 140.15,
+      "section": "lift",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "条条大路通罗马"
+      ],
+      "visual": "路只剩几条边浮着，远处灯还亮",
+      "camera": "固定",
+      "motion": "液面到肩",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s54",
+      "start": 140.15,
+      "end": 145,
+      "section": "drop",
+      "pacing": "beat_cut",
+      "mood": "",
+      "lyrics": [
+        "关关难过关关过"
+      ],
+      "visual": "最后一道门，人推门进去，液面淹过门框",
+      "camera": "固定",
+      "motion": "淹没、门合",
+      "transition": "cut",
+      "refs": []
+    },
+    {
+      "id": "s55",
+      "start": 145,
+      "end": 155.99,
+      "section": "drop",
+      "pacing": "phrase_flow",
+      "mood": "",
+      "lyrics": [],
+      "visual": "黑场，8 行明代皇帝对照表逐行淡入",
+      "camera": "固定",
+      "motion": "逐行出现",
+      "transition": "fade-out",
+      "refs": []
+    }
+  ]
+}

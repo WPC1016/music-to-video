@@ -1,0 +1,30 @@
+{
+  "title": "__TITLE__",
+  "artist": "__ARTIST__",
+  "slug": "__SLUG__",
+  "source": {
+    "audio": "",
+    "lrc": ""
+  },
+  "format": {
+    "primary": "portrait",
+    "portrait": { "width": 1080, "height": 1920, "fps": 30 },
+    "landscape": { "width": 1920, "height": 1080, "fps": 30 }
+  },
+  "engine": "canvas",
+  "style": {
+    "palette": [],
+    "font": "",
+    "texture": "",
+    "lighting": ""
+  },
+  "stage": "source",
+  "approvals": {
+    "concept": null,
+    "style": null,
+    "storyboard": null,
+    "assets": null,
+    "preview": null
+  },
+  "notes": ""
+}

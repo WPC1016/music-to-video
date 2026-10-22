@@ -1,0 +1,53 @@
+# ---------- 依赖 ----------
+node_modules/
+.pnpm-store/
+
+# ---------- 运行产物（体积大，都能重跑生成） ----------
+songs/*/frames/
+songs/*/snap/
+songs/*/snap*/
+songs/*/out/
+songs/*/logs/
+songs/*/analysis/_source.wav
+
+# ---------- 受版权保护的原始素材：音频、歌词不进仓库 ----------
+songs/*/source/*.mp3
+songs/*/source/*.wav
+songs/*/source/*.flac
+songs/*/source/*.m4a
+songs/*/source/*.aac
+songs/*/source/*.ogg
+songs/*/source/*.lrc
+songs/*/source/*.png
+songs/*/source/*.jpg
+songs/*/analysis/lyrics.json
+
+# ---------- 参考图与导出的素材（按需自取） ----------
+songs/*/refs/
+songs/*/assets/chatgpt/
+songs/*/assets/ren_tai_su_shui/
+songs/*/assets/background/
+songs/*/assets/character/
+songs/*/assets/clip/
+songs/*/assets/reference/
+
+# ---------- 本地工具状态 / 归档 ----------
+.workbuddy/
+.attic/
+.tmp/
+
+# ---------- 多工具链接（junction / symlink，换机器用 npm run skills:link 重建） ----------
+.claude/skills/
+.workbuddy/skills/
+.cursor/skills/
+.zcode/skills/
+
+# ---------- 环境与密钥 ----------
+.env
+.env.*
+!.env.example
+
+# ---------- 系统 ----------
+Thumbs.db
+desktop.ini
+.DS_Store

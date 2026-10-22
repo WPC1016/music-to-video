@@ -1,0 +1,40 @@
+{
+  "name": "music-to-video",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "description": "把一首歌做成 MV：素材 → 音频分析 → 歌词解读 → 概念 → 风格 → 分镜 → 参考图 → 程序化渲染",
+  "license": "MIT",
+  "author": "WPC1016",
+  "keywords": [
+    "music-video",
+    "lyric-video",
+    "canvas",
+    "svg",
+    "procedural-animation",
+    "ffmpeg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WPC1016/music-to-video.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WPC1016/music-to-video/issues"
+  },
+  "scripts": {
+    "doctor": "node tools/doctor.mjs",
+    "skills:link": "node tools/link-skills.mjs",
+    "stage": "node tools/stage.mjs",
+    "mv:new": "node tools/new-song.mjs",
+    "mv:analyze": "node tools/analyze.mjs",
+    "mv:validate": "node tools/validate-storyboard.mjs",
+    "mv:snap": "node engines/canvas/snap.mjs",
+    "mv:render": "node engines/canvas/render.mjs",
+    "mv:check": "node tools/check.mjs",
+    "mv:retime": "node tools/retime.mjs",
+    "sb:md": "node tools/storyboard-md.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

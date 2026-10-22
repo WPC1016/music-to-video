@@ -1,0 +1,80 @@
+{
+  "fps": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 12,
+      "pacing": "phrase_flow",
+      "mood": "测",
+      "lyrics": [],
+      "visual": "测试画面0",
+      "motion": "缓推",
+      "refs": []
+    },
+    {
+      "id": "s02",
+      "start": 12,
+      "end": 26,
+      "pacing": "phrase_flow",
+      "mood": "测",
+      "lyrics": [],
+      "visual": "测试画面1",
+      "motion": "缓推",
+      "refs": []
+    },
+    {
+      "id": "s03",
+      "start": 30,
+      "end": 60,
+      "pacing": "beat_cut",
+      "mood": "测",
+      "lyrics": [],
+      "visual": "测试画面2",
+      "motion": "缓推",
+      "refs": []
+    },
+    {
+      "id": "s04",
+      "start": 60,
+      "end": 80,
+      "pacing": "beat_cut",
+      "mood": "测",
+      "lyrics": [],
+      "visual": "测试画面3",
+      "motion": "缓推",
+      "refs": []
+    },
+    {
+      "id": "s05",
+      "start": 80,
+      "end": 95,
+      "pacing": "beat_cut",
+      "mood": "测",
+      "lyrics": [],
+      "motion": "缓推",
+      "refs": []
+    },
+    {
+      "id": "s06",
+      "start": 95,
+      "end": 138,
+      "mood": "测",
+      "lyrics": [],
+      "visual": "测试画面5",
+      "motion": "缓推",
+      "refs": []
+    },
+    {
+      "id": "s07",
+      "start": 138,
+      "end": 200,
+      "pacing": "beat_cut",
+      "mood": "测",
+      "lyrics": [],
+      "visual": "测试画面6",
+      "motion": "缓推",
+      "refs": []
+    }
+  ]
+}

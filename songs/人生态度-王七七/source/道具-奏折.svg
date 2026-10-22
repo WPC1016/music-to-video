@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128"><g transform="rotate(-8 32 32)"><rect x="12" y="10" width="42" height="44" rx="2" fill="#fbf3dd" stroke="#b8862b" stroke-width="1.5"/><path d="M22.5 10V54M33 10V54M43.5 10V54" stroke="#e0cfa3"/><path d="M17 16V46M28 16V40M38 16V44M49 16V36" stroke="#4a3a2e" stroke-width="1.6" stroke-dasharray="3 2.2"/><rect x="7" y="8" width="8" height="48" rx="1.5" fill="#c8322b" stroke="#871d18"/><rect x="8.5" y="14" width="5" height="12" fill="#f6efe0"/></g></svg>
